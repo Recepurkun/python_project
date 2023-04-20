@@ -1,1 +1,1 @@
-# Repo for my personal javascript projects
+# Repo for my personal python projects
